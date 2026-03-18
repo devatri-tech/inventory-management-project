@@ -1,0 +1,16 @@
+Order ID,Order Date,Ship Date,Category,Sub-Category,Product Name,Sales,Quantity,Profit,Region
+CA-1001,2024-01-01,2024-01-03,Furniture,Chairs,Office Chair,2500,2,300,West
+CA-1002,2024-01-02,2024-01-04,Technology,Phones,iPhone 13,80000,1,12000,East
+CA-1003,2024-01-03,2024-01-05,Office Supplies,Binders,Binder Set,500,5,50,South
+CA-1004,2024-01-04,2024-01-06,Furniture,Tables,Dining Table,7000,1,800,West
+CA-1005,2024-01-05,2024-01-07,Technology,Laptops,HP Laptop,55000,1,7000,North
+CA-1006,2024-01-06,2024-01-08,Office Supplies,Paper,A4 Paper Pack,300,10,40,East
+CA-1007,2024-01-07,2024-01-09,Technology,Accessories,Mouse,800,3,120,South
+CA-1008,2024-01-08,2024-01-10,Furniture,Chairs,Study Chair,1500,2,200,West
+CA-1009,2024-01-09,2024-01-11,Technology,Phones,Samsung Galaxy,60000,1,9000,North
+CA-1010,2024-01-10,2024-01-12,Office Supplies,Storage,Storage Box,900,4,100,East
+CA-1011,2024-01-11,2024-01-13,Furniture,Tables,Coffee Table,3000,1,350,South
+CA-1012,2024-01-12,2024-01-14,Technology,Laptops,Dell Laptop,50000,1,6000,West
+CA-1013,2024-01-13,2024-01-15,Office Supplies,Binders,Ring Binder,400,6,60,North
+CA-1014,2024-01-14,2024-01-16,Technology,Accessories,Keyboard,1200,2,150,East
+CA-1015,2024-01-15,2024-01-17,Furniture,Chairs,Executive Chair,4500,1,600,South
