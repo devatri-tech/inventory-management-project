@@ -1,9 +1,9 @@
-# 📊 Sales Analysis Dashboard (Power BI + Python)
+# Sales Analysis Dashboard (Power BI + Python)
 
-## 🔍 Overview
+## Overview
 This project analyzes sales data to provide insights into business performance using Power BI and Python.
 
-## 🚀 Features
+## Features
 - KPI Cards (Total Sales, Profit, Quantity)
 - Sales by Category (Bar Chart)
 - Profit by Region (Bar Chart)
@@ -12,21 +12,21 @@ This project analyzes sales data to provide insights into business performance u
 - Sales Distribution by Region (Pie Chart)
 - Interactive Category Filter
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - Power BI
 - Python (Pandas, Matplotlib)
 - CSV Dataset
 
-## 📈 Key Insights
+## Key Insights
 - Technology category has the highest sales
 - North region generates the most profit
 - Sales show variation over time (trend analysis)
 - Top products contribute major revenue
 
-## 📂 Project Files
+## Project Files
 - `superstore_project.py` → Python analysis
 - `superstore.csv` → Dataset
 - `.pbix` file → Power BI dashboard
 
-## 👨‍💻 Author
+##  Author
 Dev Atri
